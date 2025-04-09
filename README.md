@@ -7,7 +7,10 @@ For learning how to use Github
 
 Download GitHub in your laptop, go to official website: https://desktop.github.com/download/
 
-### get started
+### Get Started
+
+Open your terminal
+
 To check which version of git is installed, `git --version`
 
 ### Configure Git - Let GitHub know who you are
