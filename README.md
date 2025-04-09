@@ -1,7 +1,11 @@
-# myfirst-repository
+# Comprehensice Github Guide
 For learning how to use Github
 
 ## Basic
+
+### Download GitHub 
+
+Download GitHub in your laptop, go to official website: https://desktop.github.com/download/
 
 ### get started
 To check which version of git is installed, `git --version`
