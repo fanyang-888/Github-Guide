@@ -114,15 +114,9 @@ README.md 是每个仓库的门面，是别人了解你项目的第一入口。
 
 应包含：项目简介、安装说明、使用方法、贡献指南、许可证（License）。加上截图、Demo 链接更吸引人！
 
+## 使用git管理电脑上的项目
 
-
-## Basic
-
-### Download GitHub 
-
-Download GitHub in your laptop, go to official website: https://desktop.github.com/download/
-
-### Get Started
+### 施工中
 
 Open your terminal
 
