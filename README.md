@@ -1,5 +1,12 @@
-# Comprehensice Github Guide
-For learning how to use Github
+# 更适合中国宝宝体质的Github指南
+
+## 新手问题
+
+### 什么是Github?
+
+GitHub 是一个「代码仓库网站」，是程序员和开发者用来保存代码、记录变化、协作开发的地方。(如何保存，记录，更新会在下面讲到)
+
+它是基于 Git 这个工具的，但 Git 是本地用的，而 GitHub 是联网的、在线托管的。
 
 ## Basic
 
