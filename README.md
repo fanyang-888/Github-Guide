@@ -189,3 +189,11 @@ With Git:
 - Merge the new-design branch with main (getting alerted to the small error fix that you were missing)
 
 
+| Miner Model                  | Price (USD) | Algorithm           | Daily Profit* | Power   | Efficiency  | Recommended For                          |
+|-----------------------------|-------------|---------------------|----------------|---------|-------------|------------------------------------------|
+| Bitmain Antminer S21 Pro    | $4900       | SHA256 (BTC)        | $1.60          | 3550W   | ~21 J/TH    | High performance & stability for BTC     |
+| iPollo G1                   | $4599       | CKB (Eaglesong)     | $8.24          | 2800W   | -           | High profit, ideal for professional farms |
+| Bitdeer Sealminer A2 Pro Air| $4100       | SHA256              | $1.83          | 3400W   | -           | Excellent cooling & low noise            |
+| Bitmain Antminer S21        | $3700       | SHA256              | $0.17          | 3500W   | -           | Trusted brand, good resale value         |
+| FLUMINER-L1                 | $3199       | Scrypt (LTC+DOGE)   | $2.07          | 2900W   | -           | Dual-mining support, home-friendly       |
+
