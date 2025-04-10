@@ -88,6 +88,15 @@ Git 会提示有冲突（conflict），你就得手动选择保留哪一部分�
 - Fork：复制别人的仓库来修改
 - Watch：关注项目更新
 
+### 创建你的第一个仓库（Repository）
+
+- 登录后点击右上角 + → New Repository![image](https://github.com/user-attachments/assets/96847cea-ef9a-4d7f-bb9d-0cd5ee707f6c)
+- 写项目名称（比如：my-first-repo）
+- 可以选择添加 README 文件（建议勾选）
+- 设置为 Public（公开）或 Private（私有）![image](https://github.com/user-attachments/assets/2be0d898-c731-432a-a48c-e1ec5c5c6599)
+- 点击 Create Repository 创建完成
+
+
 ## Basic
 
 ### Download GitHub 
