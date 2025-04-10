@@ -58,6 +58,18 @@ Git 就是这样的一个工具，它可以记录你每次提交修改的内容�
 - 修改完后提交一个 Pull Request，团队审核通过后合并进主分支
 - Git 会自动尝试把不同人的代码合在一起，如果冲突了，就提示你解决冲突（不会强行挤出去）
 
+### Git 和 GitHub 的区别？
+
+| 比较       | Git                         | GitHub                                 |
+|------------|------------------------------|------------------------------------------|
+| 本质       | 版本控制工具                | 在线协作平台（托管 Git 仓库）           |
+| 使用方式   | 命令行/本地工具             | 网页 + Git 客户端                       |
+| 是否联网   | 不需要联网                  | 需要联网                                |
+| 功能       | 追踪代码变化、版本管理      | 团队协作、Issue 追踪、Pull Request 等   |
+
+> 💡 Git 更像是“保存和管理代码”的工具，GitHub 是“展示和协作代码”的地方。
+
+
 **❗ 如果两个人同时修改了同一段代码？**
 
 Git 会提示有冲突（conflict），你就得手动选择保留哪一部分。 但只要不是同时改同一行，就能自动合并。
@@ -91,10 +103,17 @@ Git 会提示有冲突（conflict），你就得手动选择保留哪一部分�
 ### 创建你的第一个仓库（Repository）
 
 - 登录后点击右上角 + → New Repository![image](https://github.com/user-attachments/assets/96847cea-ef9a-4d7f-bb9d-0cd5ee707f6c)
-- 写项目名称（比如：my-first-repo）
+- 写项目名称（比如：我想创造一个黄焖鸡菜谱，起名黄焖鸡）
 - 可以选择添加 README 文件（建议勾选）
 - 设置为 Public（公开）或 Private（私有）![image](https://github.com/user-attachments/assets/2be0d898-c731-432a-a48c-e1ec5c5c6599)
-- 点击 Create Repository 创建完成
+- 点击 Create Repository 创建完成![image](https://github.com/user-attachments/assets/0b421607-5326-4f23-9598-69f946b56723)
+
+### README 文件的作用和写法
+
+README.md 是每个仓库的门面，是别人了解你项目的第一入口。
+
+应包含：项目简介、安装说明、使用方法、贡献指南、许可证（License）。加上截图、Demo 链接更吸引人！
+
 
 
 ## Basic
